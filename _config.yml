@@ -4,16 +4,16 @@
 baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
-title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+title: Shieldforarrow
+subtitle: "Daily learning"
+description: "Tracking daily learning"
+keywords: Allen, Daily, C/C++, Python
+timezone: US
 encoding: "utf-8"
 # 页面左下角显示的年份
-since: 2015
+since: 2025
 # 源码仓库，请替换成自己的
-repository: mzlogin/mzlogin.github.io
+repository: Allen-Ye922/Allen-Ye922.github.io
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
     jsdelivr:
@@ -28,7 +28,7 @@ components:
     # 不蒜子访问统计
     busuanzi:
         enabled: false
-        start_date: 2020-05-03
+        start_date: 2025-03-21
     # My Popular Repositories
     side_bar_repo:
         enabled: true
@@ -57,12 +57,12 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Allen Ye
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: Allen-Ye922
+location: TX, US
+email: huilinye0922@gmail.com
 
 # ---------------- #
 #    Navigation    #
@@ -70,38 +70,38 @@ email: chumpma@gmail.com
 navs:
   -
     href: /
-    label: 首页
+    label: Dashboard
 
   -
     href: /categories/
-    label: 分类
+    label: Category
 
   -
     href: /archives/
-    label: 归档
+    label: Archive
     mobile-hidden: true
 
   -
     href: /open-source/
-    label: 开源
+    label: Opensource
     mobile-hidden: true
 
   -
     href: /fragments/
-    label: 片段
+    label: Fragment
 
   -
     href: /wiki/
-    label: 维基
+    label: Wiki
 
   -
     href: /links/
-    label: 链接
+    label: Links
     mobile-hidden: true
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
