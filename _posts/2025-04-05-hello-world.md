@@ -2,16 +2,24 @@
 
 ---
 title: Hello World
-date: 2025-04-05 10:00:00 +0800
-categories: [Blog, Demo]
-tags: [python, c++, blog]
+date: 2025-04-06 10:00:00 +0800
+categories: [Programming]
+tags: [C++, Multithread]
 ---
 
-欢迎来到我的技术博客！
+---
+description: The first blog
+___
+
+___
+comments: this is comment.
+___
 
 ```cpp
 #include <iostream>
 int main() {
-    std::cout << "Hello, C++ from Chirpy!" << std::endl;
+    std::cout << "Hello, C++ from Allen!" << std::endl;
     return 0;
 }
+```
+
