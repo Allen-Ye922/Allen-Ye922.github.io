@@ -4,8 +4,6 @@ date: 2025-04-06 10:00:00 +0800
 categories: [Programming]
 tags: [C++, Multithread]
 description: The first blog.
-comments: this is comment.
-author: 1
 ---
 
 
