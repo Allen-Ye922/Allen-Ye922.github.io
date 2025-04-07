@@ -3,16 +3,13 @@ title: Hello World
 date: 2025-04-06 10:00:00 +0800
 categories: [Programming]
 tags: [C++, Multithread]
----
-
-
----
-description: The first blog
-___
-
-___
+description: The first blog.
 comments: this is comment.
-___
+author: 1
+---
+
+
+# Welcome to the programming world!
 
 ```cpp
 #include <iostream>
