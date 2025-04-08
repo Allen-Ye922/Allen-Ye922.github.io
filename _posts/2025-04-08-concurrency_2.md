@@ -8,7 +8,7 @@ description: Implement thread safe stack
 
 
 # Thread safe stack
-Almost the same as thread safe queue.[Check the thread safe queue]({{ '/posts/2025-04-08-concurrency_1/' | relative_url }})
+Almost the same as thread safe queue.[Check the thread safe queue]({{ '/posts/2025-04-08-concurrency_1.md/' | relative_url }})
 
 ```cpp
 #include <iostream>
