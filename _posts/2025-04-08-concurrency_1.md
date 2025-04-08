@@ -49,7 +49,7 @@ public:
     ThreadSafeQueue& operator=(ThreadSafeQueue&& other) {
         if(this != &other) {
             std::lock_guard<std::mutex> l1(m_);
-            std::lock_guard<std::mutex> l2(m_);
+            std::lock_guard<std::mutex> l2(other.m_);
             queue_ = std::move(other.queue_);
         }
 
