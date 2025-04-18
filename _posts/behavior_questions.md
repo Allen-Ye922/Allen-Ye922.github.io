@@ -1,13 +1,3 @@
----
-title: Behavior questions
-date: 2025-04-14 10:00:00 +0800
-categories: [Soft skills]
-tags: [Behavior questions, interview]
-description: Give some typical behavior questions and answers based on STAR rule.
----
-
-# Behavior questions
-
 * Tell me about a time when you faced a challenging problem at work. How did you solve it?
 
 Situation: While building a distributed query system for Voltus simulations, we had to manage over 10B+ elements spread across partitions.
@@ -121,3 +111,5 @@ Task: Deliver a minimal, tailored Python interface for their testing use-case.
 Action: I refactored core logic into a clean module, wrote a user-friendly python demo, and made myself available after hours to answer their questions.
 
 Result: They integrated our system successfully and hit their deadline. Later, they became long-term collaborators on the project.
+
+
